@@ -1,1 +1,2 @@
-# mozgiq.github.io
+# 404 page
+lol
